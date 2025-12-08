@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20F75D&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Nadeem;I+break+code+sometimes...;Passionate+Learner+from+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20F75D&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Nadeem;I+break+code+sometimes;Learner+from+India" alt="Typing SVG" />
   </a>
 
   <h3>🐍 Python | 🤖 AI Enthusiast | 🎨 Frontend Rookie</h3>
