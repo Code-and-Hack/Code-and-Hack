@@ -1,20 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nadeem</h1>
-<h3 align="center">A passionate learner from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-and-hack&label=Profile%20views&color=0e75b6&style=flat" alt="code-and-hack" /> </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20F75D&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Nadeem;I+break+code+sometimes...;Passionate+Learner+from+India" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on [Basic-Python-programs](https://github.com/Code-and-Hack/Basic-Python-programs)
+  <h3>🐍 Python | 🤖 AI Enthusiast | 🎨 Frontend Rookie</h3>
+  
+  <p>I'm a school student at <b>IISJ</b> exploring the dark arts of Artificial Intelligence and Web Dev.</p>
 
-- 🌱 I’m currently learning **CSS, Artificial Intelligence and Python**
+  ---
 
-- 💬 Ask me about **AI**
+  <h3>🛠️ Languages & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  </p>
 
-- ⚡ Fun fact **I'm a school student of IISJ**
+  <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Mister.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mister.coder" height="30" width="40" /></a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadeem-Vibes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadeem's Stats" />
+  
+  <br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadeem-Vibes&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadeem's Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem-Vibes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <br>
+
+  <h3>📫 Connect with me</h3>
+  <p>
+    <a href="https://discord.com/users/ethical_nadeem">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
+  
+  <p align="right"> <i>"I have no idea what I'm doing, but it works."</i> </p>
+
+</div>
